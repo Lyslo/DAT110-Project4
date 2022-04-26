@@ -1,2 +1,3 @@
-# dat110-project4-startcode-cloudservice
-Start code for cloud service
+# dat110-project4
+
+A picture of the arduino circuit and a file with the c++ code is included.
